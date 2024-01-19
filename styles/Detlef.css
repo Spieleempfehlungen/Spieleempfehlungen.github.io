@@ -1,0 +1,22 @@
+body{background-color: black}
+h1{color: #ffffff;text-align:center;font-family: Luminari, 'Academy Engraved LET', serif; font-size: 300%}
+div.Latte{background-color: white;width:50%;min-height:90vh;margin:auto;padding-left: 80px;padding-right: 80px;padding-top:40px;padding-bottom:5px;display:flow-root}
+h2{font-family:'Academy Engraved LET', Luminari, serif; font-size:250%}
+img.Leitungswasser{float:right;max-width: 35%}
+p, li {font-family:'Times New Roman', serif}
+p.Leitungswasser{margin-bottom:16vh}
+img.Leitungswasser{margin-right:5vh}
+li{font-size: 150%}
+h3{font-size:170%}
+h4{font-size:140%}
+.Chicken{margin-top:15px; margin-bottom:150px}
+p.Leitungswasser{font-size:130%}
+div{display:flow-root}
+
+img.FRight{width: 100%}
+img.FLeft{width: 100%}
+
+@media(min-width: 800px){/*KOT*/
+    img.FRight{float:right;max-width: 35%; margin-left: 10px}
+    img.FLeft{float:left;max-width: 35%; margin-right: 10px}
+}
